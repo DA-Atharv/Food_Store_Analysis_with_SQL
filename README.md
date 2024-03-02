@@ -6,29 +6,29 @@ This is Digital Case Study for Clique Bait food app which aims to provide busine
 
 SQL Functions Use in this Analysis:
 
-Data aggregation: Utilizing functions like COUNT, SUM, AVG, MIN, MAX, and GROUP BY.
+1) Data aggregation: Utilizing functions like COUNT, SUM, AVG, MIN, MAX, and GROUP BY.
 
-Data ordering: Employing HAVING and ORDER BY clauses.
+2) Data ordering: Employing HAVING and ORDER BY clauses.
 
-Data manipulation: Using functions like JOIN (Right, Left, Inner), UNION, and DISTINCT.
+3) Data manipulation: Using functions like JOIN (Right, Left, Inner), UNION, and DISTINCT.
 
-Window functions: Leveraging functions such as LEAD, LAG, ROW_NUMBER, and RANK for sequential data analysis.
+4) Window functions: Leveraging functions such as LEAD, LAG, ROW_NUMBER, and RANK for sequential data analysis.
 
-Subqueries: Extracting subsets of data for deeper analysis.
+5) Subqueries: Extracting subsets of data for deeper analysis.
 
-Logical functions: Employing CASE WHEN for data categorization and conditional operations.
+6) Logical functions: Employing CASE WHEN for data categorization and conditional operations.
 
-Date and time functions: Utilizing DATE_FORMAT, TIMESTAMPDIFF, and DATEDIFF for temporal data analysis.
+7) Date and time functions: Utilizing DATE_FORMAT, TIMESTAMPDIFF, and DATEDIFF for temporal data analysis.
 
-Common Table Expressions (CTEs): Creating temporary result sets for complex queries.
+8) Common Table Expressions (CTEs): Creating temporary result sets for complex queries.
 
-Data formatting and transformation: Utilizing functions like CONCAT, SUBSTRING, and REPLACE.
+9) Data formatting and transformation: Utilizing functions like CONCAT, SUBSTRING, and REPLACE.
 
-Dimensional aggregation: Aggregating data across multiple dimensions with functions as GROUP_CONCAT.
+10) Dimensional aggregation: Aggregating data across multiple dimensions with functions as GROUP_CONCAT.
 
-Alias usage: Enhancing query clarity and readability.
+11) Alias usage: Enhancing query clarity and readability.
 
-Query performance optimization: Implementing indexing and query tuning techniques.
+12) Query performance optimization: Implementing indexing and query tuning techniques.
 
 SUMMARY:
 1) User Analysis: The user analysis employed various SQL functions and techniques to delve into user engagement dynamics. These included methods for concatenating event sequences, connecting multiple tables for comprehensive data exploration, and calculating key metrics such as user engagement counts and averages. Logical functions were utilized to categorize event types and identify specific user behaviors, while date formatting functions facilitated the analysis of time-related data, including intervals between events. The analysis also made use of window functions to examine sequential event patterns and identify trends over time. Subqueries played a crucial role in extracting subsets of data for deeper analysis, providing insights into user behavior across different stages of the user journey. Overall, these SQL functions and techniques enabled a thorough exploration of user engagement dynamics, facilitating data-driven decision-making and optimization strategies for enhanced platform performance.
