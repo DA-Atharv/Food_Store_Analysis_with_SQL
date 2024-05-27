@@ -6,7 +6,7 @@ This Digital Case Study for the Clique Bait food app aims to deliver businesses 
 - Excel Outputs: Screenshots of executed queries alongside their outputs in Excel format, providing visual representations of the data analysis results.
 - Analysis Report: Detailed report outlining the methodology, key findings, and insights derived from the SQL analysis, facilitating comprehensive understanding and decision-making.
 ## Summary:
-- [User Analysis](https://github.com/DA-Atharv/Food_Store_Analysis_with_SQL/tree/main/USER%20ANALYSIS): Utilized SQL functions to explore user engagement, calculating metrics like engagement counts and averages. Techniques included concatenating event sequences, connecting tables, using logical functions for categorizing events, and employing date formatting for time analysis. Window functions and subqueries identified trends and behaviors across different user journey stages, aiding data-driven decisions.
+#### [User Analysis](https://github.com/DA-Atharv/Food_Store_Analysis_with_SQL/tree/main/USER%20ANALYSIS): Utilized SQL functions to explore user engagement, calculating metrics like engagement counts and averages. Techniques included concatenating event sequences, connecting tables, using logical functions for categorizing events, and employing date formatting for time analysis. Window functions and subqueries identified trends and behaviors across different user journey stages, aiding data-driven decisions.
 
 --
 
